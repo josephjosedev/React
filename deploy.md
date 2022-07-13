@@ -33,6 +33,23 @@ To publish the user site, follow the below steps.
 
 <img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/how-to-deploy-react-application-on-github-pages/Images/1.png" width="350px">
 </p>
+
+6) Access deployed site
+
+To get the published URL, 
+
+- Go to your GitHub Repo.
+- Click Settings menu.
+- Go to the "Pages" Section.
+- You can see the "Your site is published" message.
+- Select branch to "gh-pages" and click on the "Save" button
+
+<p align="center">
+
+<img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/how-to-deploy-react-application-on-github-pages/Images/7.png" width="350px">
+</p>
+
+Now, you can access the deployed site using the published URL!
  <p align="center">
   
   - Enter the repo name as yourusername.github.io and choose whether the repo should be public or private.
