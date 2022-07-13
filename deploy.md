@@ -86,7 +86,7 @@ The "predeploy" command is used to bundle the react application and the "deploy"
 
  <p align="center">
 
-<img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/how-to-deploy-react-application-on-github-pages/Images/4.png" width="450px">
+<img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/how-to-deploy-react-application-on-github-pages/Images/4.png" width="550px">
 </p>
 
 4) Create a remote GitHub repository
@@ -114,7 +114,7 @@ To get the published URL,
 
 <p align="center">
 
-<img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/how-to-deploy-react-application-on-github-pages/Images/7.png" width="350px">
+<img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/how-to-deploy-react-application-on-github-pages/Images/7.png" width="550px">
 </p>
 
 Now, you can access the deployed site using the published URL!
