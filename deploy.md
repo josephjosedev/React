@@ -42,3 +42,19 @@ To publish the user site, follow the below steps.
 <img src="https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/how-to-deploy-react-application-on-github-pages/Images/2.png" width="450px">
 </p>
  <p align="center">
+ 
+ - Click on the "Create repository" button.Now your repo has been created.
+ 
+ **Step 3 - Create React Application**
+ - Create the react application which you want to host as a website. In this article, I am mainly focusing on how to deploy the react application on GitHub Pages. 
+ 
+ **Step 4 - Deploy the React Application**
+ - To deploy the application, follow the below steps.
+ 1) Add GitHub Pages dependency package
+ 
+ Install "gh-pages" package using the below command.
+ 
+ ```
+ npm install gh-pages --save-dev
+ 
+ ```
